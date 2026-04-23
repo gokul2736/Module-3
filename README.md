@@ -1,6 +1,4 @@
-﻿# Module 3: All Experiments
-
-Below is the merged documentation of all programs in Module 3.
+﻿# Module 3: Python Lab Experiments
 
 ---
 
